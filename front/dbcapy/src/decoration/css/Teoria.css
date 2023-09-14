@@ -1,0 +1,348 @@
+.html_teoria {
+    background-color: #92DAE6;
+  }
+  .body_teoria{
+    margin-top: auto;
+    border-radius: 1em;
+    background-color: white;
+    height: 45em;
+  }
+  .header_teoria {
+  background-color: #333;
+  color: #fff;
+  height: 68.4px;
+  display: flex;
+  border-radius: 1em;
+  }
+
+  .nav_teoria {
+  width: 80%;
+  max-width: 1000px;
+  }
+
+  .ul_teoria {
+  list-style: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+  }
+
+  .li_teoria {
+  margin: 0;
+  padding: 0;
+  }
+
+  .menu_teoria {
+  display: block;
+  padding: 15px;
+  text-decoration: none;
+  color: #fff;
+  font-size: 2em;
+  font-family: 'Smooch Sans', sans-serif;;
+  font-weight: bold;
+  }
+
+  #menu_teoria{
+    border-top-left-radius: 0.6em;;
+    border-bottom-left-radius: 0.6em;;
+    width: 5em;
+    background-color:#01295F ;
+  }
+
+  #menu_usuario_teoria{
+    font-size: 1.2em;
+    font-family: 'Roboto Mono', monospace;
+    margin-left: 40em;
+  }
+  #menu_practicas:hover{
+    background-color: #555;
+
+  }
+  .a_teoria{
+    color: black;
+    text-decoration: none;
+  }
+  .a_teoria:hover {
+  color:#ffffff;
+  background-color: #555;
+  }
+
+ .main_teoria { 
+  display: flex;
+  height: 40em;
+  align-items: center;
+  }
+
+  .temas_teoria{
+    font-family: 'Roboto Mono', monospace;
+      padding-left: 1em;
+    margin-left: 0.5em;
+      margin-top: 0.5em;
+      width: 20em;
+      height: 40em;
+      border-radius: 1em;
+      background-color: #bcc2c2   ;
+      overflow-y: scroll; /* it will work */
+  }
+  #temas_titulo_teoria {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 1.5em;
+    margin-top: 1em;
+  }
+  #teoria_titulo_teoria{
+    font-family: 'Roboto Mono', monospace;
+    font-size: 2em;
+    margin-top: 1em;
+  }
+  .teoria_teoria{
+      margin-left: 1em;
+      margin-top: 0.5em;
+      width: 45em;
+      height: 40em;
+      border-radius: 1em;
+      background-color: #dde6e6   ;
+  }
+  
+  .chat_teoria{
+      font-family: 'Roboto Mono', monospace;
+      margin-right: 1em;
+      margin-left: 1em;
+      margin-top: 0.5em;
+      width: 30em;
+      height: 40em;
+      border-radius: 1em;
+      background-color: #dde6e6    ;
+  }
+  .send_logo_img{
+    outline: none;
+    width: 2em;
+    height: 3em;
+    
+  }
+  .send_button{
+    outline: none;
+    background-color:#dde6e6 ;
+    border:none;
+    margin: 0 !important;
+    
+  }
+  .text_chat_box{
+    margin-left: 1em;
+    font-family: 'Roboto Mono', monospace;
+    width: 85%;
+    padding-left: 15px; 
+    height: 3em;
+    border-radius: 1em;
+  }
+
+  #imagen_chat_teoria{
+    margin-left: 0.5em;
+    width: 5em;
+    height: 1em;
+    padding: 0%;
+  }
+  .h1Chat{
+    height: 1em;
+  }
+ #imagen_usuario_teoria{
+    position:absolute;
+    overflow: visible;
+    top: -0.8em;
+    right: 3em;
+    width: 8em;
+    height: 6em;
+ }
+ #menu_usuario_teoria:hover{
+    height: 2em;
+    color:#01295F;
+    background-color: #555;
+ }
+ 
+ .teoria_teoria{
+  padding-left: 1em;
+  overflow-y: scroll; /* it will work */
+
+ }
+ #texto_1_teoria{
+  font-family: 'Roboto Mono', monospace;
+    font-size: 1.2em;
+ }
+ .caja_texto{
+  margin-top: 1em;
+  display: flex;
+  align-items: center;
+ }
+
+ ::-webkit-scrollbar {
+width: 20px;
+}
+
+::-webkit-scrollbar-track {
+background-color: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+background-color: #615b5b;
+border-radius: 20px;
+border: 6px solid transparent;
+background-clip: content-box;
+}
+
+::-webkit-scrollbar-thumb:hover {
+background-color: #252426;
+}
+
+.mensajes_teoria{
+border-radius: 1em;
+margin-right: 1em;
+margin-left: 1em;
+height: 30em;
+background-color: #86c6c2;
+overflow-y: scroll; 
+
+}
+
+.sent_teoria {
+  background-color: #506d66;
+  color: white;
+  padding: 10px;
+  width: auto;
+  font-weight: 500;
+  margin-bottom: 0.5em;
+  margin-top: 0.5em;
+  margin-left: 10em;
+  border-radius:1.5em;
+  float: right;
+  animation: fadeIn 2s;
+
+}
+.received_teoria {
+  font-weight: 500;
+  width: auto;
+  background-color: #4e5058;
+  color: white;
+  margin-top: 0.5em;
+  padding: 10px;
+  margin-right: 10em;
+  margin-bottom: 0.5em;
+  margin-left: 0.5em;
+  border-radius: 1em;
+  float: left;
+  animation: fadeIn 2s;
+
+}
+
+.ayuda_teoria{
+  font-weight: 500;
+  width: auto;
+  background-color: #4e5058;
+  color: white;
+  margin-top: 0.5em;
+  padding: 10px;
+  margin-right: 10em;
+  margin-left: 0.5em;
+  margin-bottom: 0.5em;
+  border-radius: 1em;
+  box-shadow: 10px 10px 5px lightblue;
+  float: left;
+  animation: fadeIn 2s;
+
+}
+.ayuda_teoria_chatGPT{
+  font-weight: 500;
+  width: auto;
+  background-color: #4e5058;
+  color: white;
+  margin-top: 0.5em;
+  padding: 10px;
+  margin-right: 1em;
+  margin-bottom: 0.5em;
+  margin-left: 0.5em;
+  border-radius: 1em;
+  box-shadow: 10px 10px 5px lightblue;
+  float: left;
+  animation: fadeIn 2s;
+
+}
+
+
+.pop_up_error{
+  font-family: 'Roboto Mono', monospace;
+  margin-left: 30em;
+  padding: 0.5em;
+  width: 25em;
+  height: 15em;
+  margin:5em;
+  background-color: #86c6c2;
+  border-radius: 2em;
+}
+
+.tutorial_web{ 
+  font-weight: 500;
+  width: auto;
+  background-color: #4e5058;
+  color: white;
+  margin-top: 0.5em;
+  padding: 10px;
+  margin-right: 1em;
+  margin-bottom: 0.5em;
+  margin-left: 0.5em;
+  border-radius: 1em;
+  box-shadow: 10px 10px 5px lightblue;
+  float: left;
+  animation: fadeIn 2s;
+
+}
+.simpsons{
+  width: 40%;
+  height: 40%;
+  margin-left: 30%;
+}
+.capyDuda_teoria{
+  width: 70%;
+  height: 70%;
+  margin-left: 6em;
+}
+.redNeuronal{
+  width:60%;
+  height: 60%;
+  margin-left: 6em;
+
+}
+.capy_orange {
+  width:60%;
+  height: 40%;
+  margin-left: 6em;
+  margin-top: 2em;
+}
+
+.coding_gif{
+  width:40%;
+  height: 30%;
+  margin-left: 15em;
+
+}
+.join_img{width:100%;
+  height: 100%;
+}
+
+.bbdd_img{  width:20%;
+  height: 20%;
+  margin-left: 12em;}
+.botonAyudaWeb{
+  border-radius: 0.5em;
+  color: white;
+  background-color: #615b5b;
+  margin-left: 2em;
+}
+.botonAyudaTeoria{
+  border-radius: 0.5em;
+  color: white;
+  background-color: #615b5b;
+  margin-left: 2em;
+}
+
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}

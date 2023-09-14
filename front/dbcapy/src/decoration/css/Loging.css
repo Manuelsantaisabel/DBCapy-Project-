@@ -1,0 +1,171 @@
+
+.info_login{
+  margin-left: 50%;
+}
+
+.body_login { 
+  font-family: Arial, sans-serif;
+  background-color: #92DAE6;
+
+}
+.wrapped_login{
+  display: flex;
+  align-items: center;
+}
+
+#login_login{
+  font-family: 'Roboto Mono', monospace;
+  text-align: center;
+  margin-top: 0%;
+}
+ 
+.NavBar{
+  display: none;  
+}
+.Logout{
+  display:block;
+}
+.form_login {
+ 
+  background-color: rgb(255, 253, 253);
+  padding: 3em;
+  border-radius: 1em;
+  box-shadow: 1em 0.5em #01295F;
+  width: 20em;
+  margin-left:13em ;
+  margin-right: 15em;
+  margin-top: 2em;
+
+}
+.input_login[type="email"], .input_login[type="password"] {
+  background-color: #dde6e6;
+  padding-top: 0.6em;
+  padding-bottom: 0.6em;
+  border-radius: 5px;
+  border: none;
+  width: 100%;
+  margin-bottom: 15px;
+}
+.button_login[type="submit"] {
+  font-family: 'Roboto Mono', monospace;
+  background-color: #222424;
+  color: rgb(255, 255, 255);
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 1em;
+  margin-left: 25%;
+  margin-bottom: 1.5em;
+  width: 50%;
+}
+.button_login[type="submit"]:hover {
+  background-color: #4cafa8;
+}
+.forgot-password_login {
+  font-family: 'Roboto Mono', monospace;
+  text-align: center;
+  margin-top: 10px;
+}
+.register_login {
+  font-family: 'Roboto Mono', monospace;
+  text-align: center;
+  margin-top: 10px;
+}
+
+
+.imagen_login{
+  margin-top: -2em;
+  margin-left: 4.3em;
+  width: 12em;
+  height: 15em;
+}
+
+.label_login{
+  font-family: 'Roboto Mono', monospace;
+  font-weight: 800;
+  font-size: 1em;
+}
+
+.titulo_bajo_login{
+  margin-left: 2em;
+  font-size: 2.25em;
+  font-weight: 800;
+  font-family: 'Smooch Sans', sans-serif;
+  animation-duration: 3s;
+ animation-name: slidein_titulo;
+}
+.info_login{
+  margin-left: 3.5em;
+  font-size: 1.75em;
+  font-family: 'Smooch Sans', sans-serif;
+  animation-duration: 3s;
+ animation-name: slidein_info;
+}
+.pie_pagin_login{
+  font-family: 'Smooch Sans', sans-serif;
+  position: absolute;
+  margin-top: 2em;
+  left: 63em;
+
+}
+.titulo_im_login{
+  margin-left: 2em;
+}
+
+
+
+.ActivarUsuario{
+  background-color: rgb(255, 253, 253);
+  padding: 2em;
+  border-radius: 1em;
+  box-shadow: 1em 0.5em #01295F;
+  width: 30em;
+  margin-left:20% ;
+  margin-right: 20%;
+  margin-top: 1em;
+}
+.ActivarUsuario h1{
+  
+  margin-left: 4em;
+  font-size: 2.25em;
+  font-weight: 800;
+  font-family: 'Smooch Sans', sans-serif;
+}
+.boton_confirmar{
+  background-color: #222424;
+color: rgb(255, 255, 255);
+padding: 10px;
+border: none;
+border-radius: 5px;
+cursor: pointer;
+width: 100%;
+}
+
+.boton_confirmar:hover{
+  background-color: #4cafa8;
+
+  }
+
+@keyframes slidein_titulo {
+from {
+margin-left: 20%;
+width: 300%;
+}
+
+to {
+margin-left: 2em;
+width: 100%;
+}
+}
+@keyframes  slidein_info{
+from {
+margin-left: 30%;
+width: 300%;
+}
+
+to {
+margin-left: 3.5em;
+width: 100%;
+}
+}
