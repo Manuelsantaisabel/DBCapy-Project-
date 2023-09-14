@@ -1,4 +1,5 @@
 # DBCapy-Project-
+
 ![capidbcolor](https://github.com/Manuelsantaisabel/DBCapy-Project-/assets/95097735/878e662a-a0c1-4c1e-85bb-108138bf582c)
 
 # ~ Introducción
@@ -10,6 +11,7 @@ Proyecto web full-stack de enseñanza de Bases de Datos potenciado con Inteligen
 - TensorFlow
 - PostgreSQL
 - ChatGPT
+  
 ![mockup drawio](https://github.com/Manuelsantaisabel/DBCapy-Project-/assets/95097735/0cab03f3-58d2-4c78-a54a-2b9079db96e7)
 
 # ~ Objetvio del proyecto
