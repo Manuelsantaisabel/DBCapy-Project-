@@ -1,6 +1,6 @@
 # DBCapy-Project-
 
-![capidbcolor](https://github.com/Manuelsantaisabel/DBCapy-Project-/assets/95097735/878e662a-a0c1-4c1e-85bb-108138bf582c)
+![capidbcolor](https://github.com/Manuelsantaisabel/DBCapy-Project-/assets/95097735/07704ead-4c1f-41e7-9ded-bed3ba6cd7a2)
 
 # ~ Introducción
 Proyecto web full-stack de enseñanza de Bases de Datos potenciado con Inteligencia Artificial. Se trata de un proyecto de exploración sobre las nuevas IA en un uso académico. Explora redes neuronales y ChatGPT (con herramientas como Fine-Tuning, Prompt Engineering y limitación de recursos a dicha API)
