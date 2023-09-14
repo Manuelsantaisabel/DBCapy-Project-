@@ -1,0 +1,234 @@
+{"intents": [
+    {
+    "tag": "saludos",
+    "paterns": [
+    "Hello, how are you doing?",
+    "Good morning, have a great day!",
+    "Hi there, it's nice to meet you.",
+    "Hey, what's up?",
+    "Good afternoon, how can I assist you?",
+    "Greetings.",
+    "Nice to see you again!",
+    "Hey, long time no see.",
+    "Good evening, how was your day?",
+    "Hello",
+    "Hey, how's it going?",
+    "Hi, it's great to have you here.",
+    "Good to meet you.",
+    "Hello, it's a pleasure to make your acquaintance.",
+    "Hey, what have you been up to lately?",
+    "Good to see you.",
+    "Hello, how's everything going?",
+    "Hey, how have you been?",
+    "Hi, it's nice to see a friendly face."
+    ],
+    "responses":["Hola :D", "Buenas","Holi , como estamos?", "Holi saludos del Capy"]
+    },
+
+
+    {
+    "tag": "time",
+    "paterns": [
+    "What time is it?",
+    "Could you tell me the time, please?",
+    "Excuse me, do you have the time?",
+    "May I know what time it is?",
+    "Could you let me know the current time?",
+    "Do you happen to know what time it is?",
+    "What's the time, please?",
+    "Can you tell me what time it is right now?",
+    "May I ask you for the time?",
+    "What hour is it now?",
+    "Do you have the time handy?",
+    "Can you tell me the time, by any chance?",
+    "What's the current time, if you don't mind me asking?",
+    "May I inquire about the time, please?",
+    "Do you know what time it is, off the top of your head?",
+    "What's the time at the moment?",
+    "Excuse me, could you inform me of the time?",
+    "May I trouble you for the time, please?",
+    "Could you kindly let me know the hour?",
+    "What time do you have right now?"
+    ],
+    "responses":["Ahora te mismo te digo que hora es"]
+    },
+
+
+    {
+    "tag": "despedida",
+    "paterns": ["Goodbye, have a great day!",
+    "See you later, alligator.",
+    "Farewell, it was nice seeing you.",
+    "Bye-bye, take care!",
+    "Have a good one, see you soon.",
+    "So long, it's been a pleasure.",
+    "Bye, have a safe trip.",
+    "Catch you later, mate.",
+    "Goodbye, stay in touch!",
+    "See you soon, bye for now.",
+    "Take care, see you next time.",
+    "It's been great, farewell for now.",
+    "See you around, my friend.",
+    "Bye, have a good one!",
+    "Until we meet again, goodbye.",
+    "It's been a pleasure, farewell.",
+    "Have a safe journey, goodbye.",
+    "Bye, see you on the flip side!",
+    "Time to go, goodbye for now.",
+    "See you next time, goodbye!"
+    ],
+    "responses":["Adios :'D", "Nos vemos","Hasta luego :D"]
+    },
+
+    {
+    "tag": "nombre",
+    "paterns": ["What's your name?",
+    "May I know your name, please?",
+    "Excuse me, I didn't catch your name.",
+    "Could you tell me your name?",
+    "May I have the pleasure of knowing your name?",
+    "I'm sorry, I didn't get your name.",
+    "Can you introduce yourself?",
+    "What should I call you?",
+    "May I know who I am speaking to?",
+    "What's your good name?",
+    "What do you go by?",
+    "Could you share your name with me?",
+    "Pardon me, I didn't hear your name clearly.",
+    "May I ask your name, please?",
+    "How should I address you?",
+    "Can you tell me your name again?",
+    "I'm sorry, I didn't hear your name properly.",
+    "What name should I use for you?",
+    "Would you mind telling me your name?",
+    "Can you kindly share your name with me?"],
+    "responses":
+    ["Me llamo DBCapy, soy un asistente virutal para ayudarte con el aprendizaje de bases de datos ",
+    "Soy DBCapy, un Capibara que quiere ayudar a que puedas aprender bases de datos de una forma más facil "]
+    },
+
+    {
+    "tag": "creator",
+    "paterns": ["Who created this app?",
+    "May I know the name of the app's creator?",
+    "Can you tell me the name of the person who made this app?",
+    "Who is the mastermind behind this app?",
+    "Could you enlighten me on who developed this app?",
+    "What's the name of the app's designer or developer?",
+    "Do you know who made this app possible?",
+    "I'm curious, who is responsible for creating this app?",
+    "Can you provide me with the name of the app's creator?",
+    "Who is credited with developing this app?",
+    "May I inquire about the app's creator?",
+    "Who do I need to thank for this app?",
+    "Can you tell me the name of the genius who created this app?",
+    "Who came up with the concept for this app?",
+    "May I know the name of the app's inventor?",
+    "Who is the person behind this app's success?",
+    "What's the name of the individual who brought this app to life?",
+    "Who is the developer responsible for this app's features?",
+    "Could you tell me who designed and programmed this app?",
+    "Who is the brilliant mind behind this app's design and functionality?"],
+    "responses":["El creador de esta web es Manuel Santa Isabel Mayo",
+    "Este proyecto esta propuesto como idea de TGF para la universidad de la USAL por Manuel Santa Isabel Mayo"
+    ]
+    },
+
+    {
+    "tag": "commands",
+    "paterns": ["What commands can I use with this virtual agent?",
+    "What are the basic voice commands that I can use with this chatbot?",
+    "Can you guide me on how to interact with this virtual agent using commands?",
+    "What are the most commonly used commands for this chatbot?",
+    "Can you tell me the list of voice commands available for this virtual agent?",
+    "How can I activate the voice recognition feature to use commands with this agent?",
+    "What are the different ways I can use commands to communicate with this virtual assistant?",
+    "What specific actions can I perform with the commands on this chatbot?",
+    "How can I learn more about the commands and their functionalities on this virtual agent?",
+    "Can you explain the syntax and structure of the commands that I can use with this chatbot?",
+    "What are the limitations of using voice commands with this virtual assistant?",
+    "How can I customize the commands to suit my needs with this chatbot?",
+    "What kind of feedback or responses can I expect when using commands with this virtual agent?",
+    "Can I use natural language commands with this chatbot?",
+    "What are the security measures in place for using commands with this virtual assistant?",
+    "Can I use specific keywords or phrases to trigger different actions with this chatbot?",
+    "How can I see a list of all the available commands for this virtual agent?",
+    "What kind of user data is collected when using commands with this chatbot?",
+    "Can I use commands to navigate to different sections or pages on this virtual agent?",
+    "What are the advanced commands that I can use with this chatbot?"
+    
+    ],
+    "responses":[
+        "Claro, los comandos más útiles que puedes usar son los siguientes: help | hello | whats your name? | what time it is? | good bye | who is your creator? | how to use the comands? | how to use the web? | what bots are used in this web? , aunque claro al tratarse de un bot que interpreta el lenguaje natural puedes probar a preguntar otras preguntas relacionadas con esos temas(todas en ingléss)"
+    ]
+    },
+
+    { "tag": "bot", 
+    "paterns": [
+    "What are chat bots used for on this website?",
+    "Can you tell me the purpose of the chat bots on this site?",
+    "What functions do the chat bots serve on this web page?",
+    "How are the chat bots used on this website?",
+    "What are the benefits of using chat bots on this web page?",
+    "What is the goal of incorporating chat bots on this site?",
+    "Can you explain to me why chat bots are used on this website?",
+    "What specific tasks can the chat bots on this page perform?",
+    "What kind of interactions can I have with the chat bots on this site?",
+    "What kind of questions can the chat bots on this page answer?",
+    "What are the limitations of the chat bots on this web page?",
+    "How reliable are the chat bots on this website?",
+    "What kind of customer support services are provided by the chat bots on this site?",
+    "What kind of personalized assistance can I get from the chat bots on this web page?",
+    "What kind of insights can the chat bots on this website provide me with?",
+    "Can the chat bots on this page help me with my purchasing decisions?",
+    "What kind of data can the chat bots on this site gather about me?",
+    "Can the chat bots on this website help me troubleshoot technical issues?",
+    "What kind of feedback can the chat bots on this web page give me?",
+    "What kind of user engagement can I expect from the chat bots on this site?"
+    
+    ],
+    "responses":["Para la creación de esta web se han utilizado 3 bots distintos: Un bot creado con deep-learning propio, un asistente virtual de (IBM Watson) creado para ayudar con ejercicios practicos de la web y por último, el bot ChatGPT para resonder preguntas más generales y más complejas que un usario pueda preguntar sobre base de datos"
+    ]},
+
+    { "tag": "web_function", 
+    "paterns": [
+    "Can you explain how this website works?",
+    "What is the process of using this web page?",
+    "Can you guide me on how to navigate this website?",
+    "How does this web page function?",
+    "Can you give me an overview of how this website works?",
+    "What is the purpose of each section on this web page?",
+    "Can you explain the different features of this website?"
+    ],
+    "responses":["Claro, puedo explicar como funciona esta web.El proposito de la web es juntar las IA con la docencia y crear una plataforma para aprender el funcionamiento de las Bases de Datos con distintos tipos de bots(por ejemplo ahora estas hablando con un bot creado por el creador de la aplicación). Dentro de la aplicación puedes leer temas y conceptos teóricos sobre BBDD y luego en la otra seccion que aparece en la barra de tareas , puedes aplicar dichos conceptos en ejercicios prácticos. Tanto la pestaña de teoría como la de prácticas puedes hacer uso de un ageente inteligente que pueda asistirte y ayudarte con los problemas que vayan surgiendote. Si quieres ayuda sobre algun tema teórico o algo más complejo relacionado con Bases de Datos escribe help en el chat."
+    ]
+    },
+
+    { "tag": "ayuda", 
+    "paterns": [
+    "I need help",
+    "help",
+    "Can someone assist me with this issue?",
+    "I'm having trouble with this part of the app, can you help?",
+    "I have problem",
+    "I don't understand an error",
+    "How can I get help with this problem?",
+    "I'm stuck, can someone guide me through this?",
+    "I need some help troubleshooting this issue.",
+    "This is not working as expected, can someone help me fix it?",
+    "I need some assistance with the setup process.",
+    "Can you show me how to use this feature properly?",
+    "I need help understanding this error message.",
+    "How do I resolve this error message?",
+    "Can you provide me with some guidance on how to use this app?",
+    "I'm not sure how to get started, can someone help me out?",
+    "I need help navigating through this part of the app.",
+    "Can you give me some advice on how to optimize this process?",
+    "How do I access the help center for this app?",
+    "I need someone to walk me through this feature step-by-step.",
+    "Can you suggest any resources or materials that could help me?",
+    " I need some assistance in customizing this part of the app."
+    ],
+    "responses":["Vaya, necesitas ayuda , bueno vamos a ver como lo podemos solucionar :D"]}
+] 
+}
